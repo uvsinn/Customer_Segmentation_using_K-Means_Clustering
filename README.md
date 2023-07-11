@@ -36,6 +36,12 @@ To use the code in this repository, follow these steps:
 4. Execute the code files in the `Custome_Segmentation.ipynb` in the specified order to perform customer segmentation using K-Means clustering. Adjust the parameters and settings as per your requirements.
 5. Customize the code and experiment with different approaches to suit your specific business needs and dataset characteristics.
 
+## Results
+<p align="left">
+   <img src="results/elbow point graph.png" width="428"/>
+   <img src="results/clustered customers.png" width="428"/>
+</p>
+
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue.
 
